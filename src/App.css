@@ -1,0 +1,208 @@
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+span {
+    padding: 20px 5px;
+    margin: 20px;
+}
+
+.icon-1 {
+    margin-left: 10%;
+}
+
+.but {
+    margin: 2% 8%;
+    padding: 3px 15px;
+    border-radius: 100px;
+    background-color: darkblue;
+    color: white;
+}
+
+h5 {
+    padding: 15px;
+}
+
+.head-1 {
+    margin-left: 15%;
+}
+
+.main-page {
+    background-color: beige;
+
+}
+
+.img-1 {
+    width: 100%;
+    margin: 10px;
+}
+
+.page-2 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.723);
+    color: white;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.icon-2 {
+    padding: 15px;
+}
+
+.center-page {
+    text-align: center;
+}
+
+.but-1 {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.723);
+    color: white;
+    padding: 15px 25px;
+}
+
+p {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.p-1 {
+    margin-bottom: 3%
+}
+
+.icon-3 {
+    font-size: 80px;
+    background-color: yellowgreen;
+    border-radius: 100px;
+    padding: 15px;
+    margin: 5%;
+}
+
+.desine-1 {
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+
+}
+
+h4 {
+    padding-top: 5px;
+}
+
+.but-2 {
+    padding: 15px 25px;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.723);
+    color: white;
+}
+
+h1 {
+    padding: 5%;
+    box-shadow: 0 0.15rem 1rem rgba(0, 0, 0.12, 0.15);
+    padding-left: 5%;
+}
+
+h2 {
+    margin-top: 2%;
+}
+
+.room {
+    margin-left: 10%;
+    width: 100%;
+}
+
+.but-3 {
+    padding: 15px 25px;
+    margin: 5px 20px;
+    border: 0;
+    border-bottom: 2px solid orangered;
+}
+
+.dining,
+.banquet,
+.aminities {
+    width: 100%;
+    margin: 5% 10%;
+}
+
+.gallary {
+    padding: 10px;
+    width: 32%;
+}
+
+.aminities-1 {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+
+.list-1 {
+    display: flex;
+    justify-content: center;
+}
+
+ul,
+li {
+    margin: 10px 20px 10px 70px;
+    padding: 5px;
+}
+
+.location {
+    width: 100%;
+    height: 100%;
+}
+
+.last {
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.last-par {
+    width: 60%;
+}
+
+.form {
+    text-align: center;
+    margin: 5% 40%;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: rgb(210, 210, 246, 0.5);
+}
+
+input {
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+
+}
+
+.row-3 {
+    margin-left: -10px;
+}
+
+.submission {
+    color: darkblue;
+}
+
+.body-1 {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT81OBGBs6zebtCrvjM5U4GCDB3cBpx2DGOvg&usqp=CAU');
+    opacity: 0.99;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.subimission {
+    padding: 20px 40px;
+    margin: 20px;
+    background-color: brown;
+    color: white;
+    border-radius: 20px;
+}
